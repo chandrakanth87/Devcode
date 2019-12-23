@@ -6,6 +6,7 @@
 
   <groupId>jar</groupId>
   <artifactId>Devone</artifactId>
+  <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>Devone</name>
